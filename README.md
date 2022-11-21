@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently upskilling myself as a Data Engineer and learning Big Data tools and technologies.
 
-- :computer: As a side interest, I'm also exploring React and diving deeper into JavaScript.
+- :computer: As a side interest, I'm also exploring React and have completed Udacity's [React Nanodegree](https://confirm.udacity.com/AJDMPZQK).
 
 - :bulb: I also have experience working with DevOps tools and have created CI/CD pipelines to automate processes, saving up to 2.5 man-days/sprint.
 
