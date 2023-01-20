@@ -8,10 +8,10 @@
 
 - 🌱 I'm currently upskilling myself as a Data Engineer and learning Big Data tools and technologies.
 
-- :computer: As a side interest, I'm also exploring React and have completed Udacity's [React Nanodegree](https://confirm.udacity.com/AJDMPZQK).
+- :computer: As a side interest, I'm also exploring React and have recently completed Udacity's [React Nanodegree](https://confirm.udacity.com/AJDMPZQK).
 
-- :bulb: I also have experience working with DevOps tools and have created CI/CD pipelines to automate processes, saving up to 2.5 man-days/sprint.
+- :bulb: I have experience working with DevOps tools and have created CI/CD pipelines to automate processes, saving up to 2.5 man-days/sprint.
 
 - ⏲️ Apart from my love for coding, in my free time I wear various hats as a technical content writer (published 30+ articles at Scaler & [GeeksforGeeks](https://auth.geeksforgeeks.org/user/SAKSHIKULSHRESHTHA/articles)) and as a mentor, guiding people through their technical queries and upskilling them.
 
-- 📫 Want to collaborate? Drop me a message over my LinkedIn: https://www.linkedin.com/in/sakshi-kulshreshtha/
+- 📫 Want to collaborate? Drop me a message at sakshi.kst@gmail.com or on my LinkedIn: https://www.linkedin.com/in/sakshi-kulshreshtha/
