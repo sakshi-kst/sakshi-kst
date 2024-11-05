@@ -1,4 +1,4 @@
-- 👋 Hi!! I’m Sakshi Kulshreshtha, currently working as a Software Engineer - Big Data at the NatWest Group with an experience of 2 years.
+- 👋 Hi!! I’m Sakshi Kulshreshtha, currently working as a Data Engineer II at Expedia Group with an experience of 4+ years.
 
 - 👀 I am proficient in Java, Python and Big Data tools like PySpark, Airflow, SQL & AWS.
 
