@@ -1,16 +1,12 @@
-- 👋 Hi!! I’m Sakshi Kulshreshtha, currently working as a Data Engineer II at Expedia Group with an experience of 4+ years.
+- 👋 Hi!! I’m Sakshi Kulshreshtha, currently working as a Data Engineer II at Expedia Group with an experience of 5+ years.
 
-- 👀 I am proficient in Java, Python and Big Data tools like PySpark, Airflow, SQL & AWS.
+- 👀 I am proficient in Java, Python and Big Data tools like Spark, Airflow, SQL & AWS.
 
 - :trophy: I'm 2x AWS certified, as a Cloud Practitioner and a Solutions Architect Associate.
 
 - :chart_with_upwards_trend: My current role introduced me to the world of Data and Cloud and I'm especially intrigued by its immense potential and look forward to harness it to solve real-world problems.
 
-- 🌱 I'm currently upskilling myself as a Data Engineer and learning Big Data tools and technologies.
-
-- :computer: As a side interest, I'm also exploring React and have recently completed Udacity's [React Nanodegree](https://confirm.udacity.com/AJDMPZQK).
-
-- :bulb: I have experience working with DevOps tools and have created CI/CD pipelines to automate processes, saving up to 2.5 man-days/sprint.
+- :bulb: I also have experience working with DevOps tools and have created CI/CD pipelines to automate processes, saving up to 2.5 man-days/sprint.
 
 - ⏲️ Apart from my love for coding, in my free time I wear various hats as a technical content writer & reviewer (published 30+ articles at Scaler & [GeeksforGeeks](https://auth.geeksforgeeks.org/user/SAKSHIKULSHRESHTHA/articles) and have reviewed 50+ AWS articles on Scaler) and as a mentor, guiding people through their technical queries and upskilling them.
 
